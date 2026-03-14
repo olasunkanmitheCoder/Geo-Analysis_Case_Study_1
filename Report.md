@@ -115,17 +115,29 @@ Spatial Analysis Techniques
 ## Key Visual Outputs
 ### Land Cover Change Maps
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
+*Figure 1: land cover map for 1990.*
     
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
+*Figure 1: land cover map for 2002.*
 
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
+*Figure 1: land cover map for 2015.*
 
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
+*Figure 1: land cover map for 2025.*
 
 ### Flood Hazard Map
-
+![Flood Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Vulnerability_Map.jpg)
 
 ### Soil Erosion Map
-
+![Soil Erosion Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Soil%20Loss.jpg)
 
 ### Population Exposure Map
+![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Affected_Population.jpg)
+
+
+![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
+
+
+
+## 
