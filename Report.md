@@ -30,7 +30,7 @@ The goal is to provide insights that can support urban planning, environmental m
 ## Methodology
 The workflow involved:
 
-#### Land Cover Classification and Change Detection
+### Land Cover Classification and Change Detection
 - Landsat imagery (1990, 2002, 2015, 2025)
 - Supervised classification using Maximum Likelihood algorithm.
 - Four classes identified:
@@ -44,7 +44,7 @@ The analysis evaluated land cover transitions across three intervals:
   - 2002 – 2015
   - 2015 – 2025
 
-#### Flood Hazard Modeling and Weighting with Analytical Hierarchy Process (AHP)
+### Flood Hazard Modeling and Weighting with Analytical Hierarchy Process (AHP)
 Flood susceptibility was evaluated using a GIS-based Multi-Criteria Decision Analysis (MCDA) framework. AHP was used to assign weights to flood-driving factors based on their influence on flooding. Weighted layers were combined using weighted overlay analysis to generate the final flood hazard map.
 
 Factors used:
@@ -63,7 +63,7 @@ Flood Hazard categorizes:
   - Low
   - Very Low
 
-#### Soil Erosion Modeling
+### Soil Erosion Modeling
 Soil erosion risk was estimated using the RUSLE model, integrates five parameters:
   - Rainfall erosivity (R)
   - Soil erodibility (K)
@@ -78,7 +78,7 @@ Erosion risk levels categorizes:
   - High
   - Extreme
 
-#### WorldPop population data was spatially intersected with hazard zones to estimate affected populations.
+### WorldPop population data was spatially intersected with hazard zones to estimate affected populations.
 
 Process:
     
