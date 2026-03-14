@@ -81,11 +81,13 @@ Erosion risk levels categorizes:
 5. WorldPop population data was spatially intersected with hazard zones to estimate affected populations.
 
 Process:
+    
     - Overlaying hazard maps with population raster data
     - Extracting population counts within hazard zones
     - Using zonal statistics to calculate the number of inhabitants exposed to each hazard level
 
 ### Project Workflow
+
 Satellite Imagery → Image Classification → LULC Change Detection
                     ↓
                GIS Layers
@@ -100,8 +102,10 @@ Satellite Imagery → Image Classification → LULC Change Detection
 Software
   - ArcGIS
   - Microsoft Excel
+
 Remote Sensing
   - Landsat imagery 
+
 Spatial Analysis Techniques
   - Supervised Image Classification (Maximum Likelihood)
   - Change Detection
