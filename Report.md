@@ -110,7 +110,7 @@ Spatial Analysis Techniques
 <p align="center">
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
 *Figure 1: land cover map for 1990.*
-<p>
+</p>
 
     
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
