@@ -153,6 +153,11 @@ Spatial Analysis Techniques
 
 
 ### *Table 3: Showing LULC intensity on the gains and losses for the study area (1990-2025)*
+Classes,Gain (km²),Loss (km²),Gain Intensity (%/yr),Loss Intensity (%/yr)
+Built-Up Area,47.322,0.999,0.411,0.009
+Dense Vegetation,6.449,123.823,0.056,1.077
+Sparse Vegetation,103.375,42.539,0.898,0.369
+Bare Land/Rock Outcrop,26.789,16.574,0.233,0.144
 
 
 ## Key Result and Insights
