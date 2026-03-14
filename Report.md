@@ -107,9 +107,10 @@ Spatial Analysis Techniques
 
 ## Key Visual Outputs
 ### Land Cover Change Maps
-<p align="center">
+
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
-*Figure 1: land cover map for 1990.*
+<p align="center">
+    <em>Figure 1: land cover map for 1990.</em>
 </p>
 
     
