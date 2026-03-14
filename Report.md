@@ -113,17 +113,27 @@ Spatial Analysis Techniques
     <em>Figure 1: land cover map for 1990.</em>
 </p>
 
+
     
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
-*Figure 2: land cover map for 2002.*
+<p align="center">
+    <em>Figure 1: land cover map for 2002</em>
+</p>
+
 
 
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
-*Figure 3: land cover map for 2015.*
+<p align="center">
+    <em>Figure 1: land cover map for 2015</em>
+</p>
+
 
 
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
-*Figure 4: land cover map for 2025.*
+<p align="center">
+    <em>Figure 1: land cover map for 2025.</em>
+</p>
+
 
 
 ### Flood Hazard Map
