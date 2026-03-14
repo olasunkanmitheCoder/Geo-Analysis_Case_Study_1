@@ -147,5 +147,68 @@ Spatial Analysis Techniques
 ![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
 *Figure 8: Population Exposure Map for erosion affected population.*
 
+## Key Result and Insights
+### Results
+Land Cover Change
+Significant land cover change occurred between 1990 and 2025.
+Key trends include:
+- Built-up areas increased by 365%
+- Dense vegetation declined by 57%
+- Sparse vegetation increased significantly
+- Bare land also expanded over time
+Note: These changes indicate strong urban growth pressure and environmental transformation.
 
-## 
+Soil Erosion Risk
+The erosion model revealed that:
+- ~39% of the area experiences very low erosion
+- ~49% experiences low erosion
+- ~6% experiences extreme erosion risk
+
+High erosion zones are concentrated in areas with:
+- steep slopes
+- reduced vegetation cover
+- exposed soils
+
+Flood Hazard Distribution
+Flood hazard mapping shows that:
+- 17% of the region falls within high flood-risk zones
+- 82% falls within low flood-risk areas
+- Very high hazard zones cover a very small area
+
+Flood hazard is strongly influenced by:
+- low elevation
+- high flow accumulation
+- built-up land surfaces
+
+Population Exposure
+The hazard exposure analysis shows:
+Flood Exposure
+- ~62,000 people live in high flood-risk areas
+- Over 528,000 residents are located in low-risk zones but remain vulnerable to severe rainfall events.
+
+Erosion Exposure
+- ~47,000 inhabitants live in extreme erosion zones
+- ~18,000 people are located in high erosion risk areas
+Note: Many high-risk zones coincide with rapidly expanding urban areas and transport corridors.
+
+### Insights
+The results highlight several critical relationships:
+- Urban expansion is strongly linked to declining vegetation cover
+- Increased impervious surfaces contribute to higher flood susceptibility
+- Areas experiencing both flood and erosion risks represent compound hazard zones
+- Hazard exposure is concentrated around urban settlements and infrastructure corridors
+- These findings emphasize the need for sustainable urban planning and improved land management strategies.
+
+
+## Limitations
+While the project provides useful insights, several limitations exist:
+- Landsat imagery resolution limits fine-scale analysis
+- Rainfall data resolution may not capture local variability
+- Assumptions in the RUSLE model may simplify real erosion processes
+- Population estimates rely on modeled datasets
+
+## Conclusion
+This project demonstrates how GIS and remote sensing techniques can be applied to assess environmental hazards in rapidly land cover changing regions.
+By integrating land cover change analysis, flood hazard modeling, and soil erosion estimation, the study provides valuable insights into how land cover influences hydrological 
+risks and population exposure.
+The workflow can be adapted for urban risk assessment, environmental monitoring, and disaster management planning in other regions.
