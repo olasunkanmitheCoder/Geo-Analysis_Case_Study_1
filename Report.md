@@ -19,7 +19,6 @@ The goal is to provide insights that can support urban planning, environmental m
 ![STUDY AREA](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Akure_South_Area_Map.jpg)
 
 ## Data Source
-*Table 1*
 | Data                          | Source                         | Resolution    |
 | ----------------------------- | ------------------------------ | ------------- |
 | Landsat TM, ETM+, OLI imagery | [USGS](https://earthexplorer.usgs.gov/)                           | 30m           |
@@ -107,54 +106,59 @@ Spatial Analysis Techniques
 
 ## Key Visual Outputs
 ### Land Cover Change Maps
-
+<p align="center">
+ Land cover map for 1990.
+</p>
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
+
+
+
 <p align="center">
-    <em>Figure 1: land cover map for 1990.</em>
-</p>
-
-
-    
+ Land cover map for 2002
+</p>    
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
+
+
+
 <p align="center">
-    <em>Figure 1: land cover map for 2002</em>
+ Land cover map for 2015
 </p>
-
-
-
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
+
+
+
 <p align="center">
-    <em>Figure 1: land cover map for 2015</em>
+ Land cover map for 2025
 </p>
-
-
-
 ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
-<p align="center">
-    <em>Figure 1: land cover map for 2025.</em>
-</p>
 
 
 
 ### Flood Hazard Map
 ![Flood Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Vulnerability_Map.jpg)
-*Figure 5: Flood hazard map.*
+
 
 
 ### Soil Erosion Map
 ![Soil Erosion Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Soil%20Loss.jpg)
-*Figure 6: Soil erosion map.*
+
 
 
 ### Population Exposure Map
+<p align="center">
+ Population Exposure Map for flood affected population.
+</p>
 ![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Affected_Population.jpg)
-*Figure 7: Population Exposure Map for flood affected population.*
 
+
+<p align="center">
+ Population Exposure Map for erosion affected population.
+</p>
 ![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
-*Figure 8: Population Exposure Map for erosion affected population.*
 
 
-### *Table 2: Spatial extent of land cover types for the study area (1990 – 2025)*
+
+### *Spatial extent of land cover types for the study area (1990 – 2025)*
 
 | Land Use / Cover Class | 1990 (km²) | 2002 (km²) | 2015 (km²) | 2025 (km²) | Change 1990–2002 (km²) | Change 2002–2015 (km²) | Change 2015–2025 (km²) | Total Change 1990–2025 (km²) | % Change |
 |------------------------|-----------|-----------|-----------|-----------|------------------------|------------------------|------------------------|-----------------------------|---------|
@@ -165,7 +169,7 @@ Spatial Analysis Techniques
 | **Total Area** | **328.5927** | **328.5927** | **328.5927** | **328.5927** |  |  |  |  |  |
 
 
-### *Table 3: Showing LULC intensity on the gains and losses for the study area (1990-2025)*
+### *land Cover intensity on the gains and losses for the study area (1990-2025)*
 | Land Use / Cover Class | Gain (km²) | Loss (km²) | Gain Intensity (%/yr) | Loss Intensity (%/yr) |
 |------------------------|-----------|-----------|----------------------|----------------------|
 | Built-Up Area | 47.322 | 0.999 | 0.411 | 0.009 |
