@@ -162,7 +162,7 @@ Spatial Analysis Techniques
 
 ### *Spatial extent of land cover types for the study area (1990 – 2025)*
 
-| Land Use / Cover Class | 1990 (km²) | 2002 (km²) | 2015 (km²) | 2025 (km²) | Change 1990–2002 (km²) | Change 2002–2015 (km²) | Change 2015–2025 (km²) | Total Change 1990–2025 (km²) | % Change |
+| Land Cover Class | 1990 (km²) | 2002 (km²) | 2015 (km²) | 2025 (km²) | Change 1990–2002 (km²) | Change 2002–2015 (km²) | Change 2015–2025 (km²) | Total Change 1990–2025 (km²) | % Change |
 |------------------------|-----------|-----------|-----------|-----------|------------------------|------------------------|------------------------|-----------------------------|---------|
 | Built-Up Area | 12.7053 | 25.4844 | 42.7671 | 59.0283 | 12.7791 | 17.2827 | 16.2612 | 46.323 | 365 |
 | Dense Vegetation | 205.8426 | 184.8105 | 173.4759 | 88.4682 | -21.0321 | -11.3346 | -85.0077 | -117.3744 | -57 |
@@ -172,7 +172,7 @@ Spatial Analysis Techniques
 
 
 ### *land Cover intensity on the gains and losses for the study area (1990-2025)*
-| Land Use / Cover Class | Gain (km²) | Loss (km²) | Gain Intensity (%/yr) | Loss Intensity (%/yr) |
+| Land Cover Class | Gain (km²) | Loss (km²) | Gain Intensity (%/yr) | Loss Intensity (%/yr) |
 |------------------------|-----------|-----------|----------------------|----------------------|
 | Built-Up Area | 47.322 | 0.999 | 0.411 | 0.009 |
 | Dense Vegetation | 6.449 | 123.823 | 0.056 | 1.077 |
