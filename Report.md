@@ -46,6 +46,7 @@ The analysis evaluated land cover transitions across three intervals:
 
 2. Flood Hazard Modeling and Weighting with Analytical Hierarchy Process (AHP)
 Flood susceptibility was evaluated using a GIS-based Multi-Criteria Decision Analysis (MCDA) framework. AHP was used to assign weights to flood-driving factors based on their influence on flooding. Weighted layers were combined using weighted overlay analysis to generate the final flood hazard map.
+
 Factors used:
   - Slope
   - Elevation
@@ -55,6 +56,7 @@ Factors used:
   - Soil type
   - Land use
   - Topographic Wetness Index
+
 Flood Hazard categorizes:
   - Very High
   - High
@@ -68,6 +70,7 @@ Soil erosion risk was estimated using the RUSLE model, integrates five parameter
   - Slope length & steepness (LS)
   - Vegetation cover (C)
   - Conservation practices (P)
+
 Erosion risk levels categorizes:
   - Very Low
   - Low
@@ -76,13 +79,13 @@ Erosion risk levels categorizes:
   - Extreme
 
 5. WorldPop population data was spatially intersected with hazard zones to estimate affected populations.
+
 Process:
     - Overlaying hazard maps with population raster data
     - Extracting population counts within hazard zones
     - Using zonal statistics to calculate the number of inhabitants exposed to each hazard level
 
 ### Project Workflow
-
 Satellite Imagery → Image Classification → LULC Change Detection
                     ↓
                GIS Layers
@@ -94,12 +97,12 @@ Satellite Imagery → Image Classification → LULC Change Detection
            Population Exposure Analysis
 
 ## Tools & Technologies
-  Software
+Software
   - ArcGIS
   - Microsoft Excel
-  Remote Sensing
+Remote Sensing
   - Landsat imagery 
-  Spatial Analysis Techniques
+Spatial Analysis Techniques
   - Supervised Image Classification (Maximum Likelihood)
   - Change Detection
   - Multi-Criteria Decision Analysis (using AHP Weighting and Weighted Overlay)
