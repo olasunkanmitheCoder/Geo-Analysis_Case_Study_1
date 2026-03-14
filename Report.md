@@ -19,6 +19,7 @@ The goal is to provide insights that can support urban planning, environmental m
 ![STUDY AREA](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Akure_South_Area_Map.jpg)
 
 ## Data Source
+*Table 1*
 | Data                          | Source                         | Resolution    |
 | ----------------------------- | ------------------------------ | ------------- |
 | Landsat TM, ETM+, OLI imagery | [USGS](https://earthexplorer.usgs.gov/)                           | 30m           |
@@ -88,15 +89,7 @@ Process:
 
 ### Project Workflow
 
-Satellite Imagery → Image Classification → LULC Change Detection
-                    ↓
-               GIS Layers
-                    ↓
-      MCDA + AHP Flood Hazard Mapping
-                    ↓
-           RUSLE Soil Erosion Model
-                    ↓
-           Population Exposure Analysis
+![Project Workflow]( )
 
 ## Tools & Technologies
 Software
@@ -147,10 +140,25 @@ Spatial Analysis Techniques
 ![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
 *Figure 8: Population Exposure Map for erosion affected population.*
 
+
+### *Table 2: Spatial extent of land cover types for the study area (1990 – 2025)*
+
+| Land Use / Cover Class | 1990 (km²) | 2002 (km²) | 2015 (km²) | 2025 (km²) | Change 1990–2002 (km²) | Change 2002–2015 (km²) | Change 2015–2025 (km²) | Total Change 1990–2025 (km²) | % Change |
+|------------------------|-----------|-----------|-----------|-----------|------------------------|------------------------|------------------------|-----------------------------|---------|
+| Built-Up Area | 12.7053 | 25.4844 | 42.7671 | 59.0283 | 12.7791 | 17.2827 | 16.2612 | 46.323 | 365 |
+| Dense Vegetation | 205.8426 | 184.8105 | 173.4759 | 88.4682 | -21.0321 | -11.3346 | -85.0077 | -117.3744 | -57 |
+| Sparse Vegetation | 86.6079 | 93.2346 | 90.8073 | 147.4443 | 6.6267 | -2.4273 | 56.637 | 60.8364 | 70 |
+| Bare Land / Rock Outcrop | 23.4369 | 25.0632 | 21.5424 | 33.6519 | 1.6263 | -3.5208 | 12.1095 | 10.215 | 44 |
+| **Total Area** | **328.5927** | **328.5927** | **328.5927** | **328.5927** |  |  |  |  |  |
+
+
+### *Table 3: Showing LULC intensity on the gains and losses for the study area (1990-2025)*
+
+
 ## Key Result and Insights
 ### Results
-Land Cover Change
-Significant land cover change occurred between 1990 and 2025.
+Land Cover Change - Significant land cover change occurred between 1990 and 2025.
+
 Key trends include:
 - Built-up areas increased by 365%
 - Dense vegetation declined by 57%
@@ -158,8 +166,7 @@ Key trends include:
 - Bare land also expanded over time
 Note: These changes indicate strong urban growth pressure and environmental transformation.
 
-Soil Erosion Risk
-The erosion model revealed that:
+Soil Erosion Risk - The erosion model revealed that:
 - ~39% of the area experiences very low erosion
 - ~49% experiences low erosion
 - ~6% experiences extreme erosion risk
@@ -169,8 +176,7 @@ High erosion zones are concentrated in areas with:
 - reduced vegetation cover
 - exposed soils
 
-Flood Hazard Distribution
-Flood hazard mapping shows that:
+Flood Hazard Distribution - Flood hazard mapping shows that:
 - 17% of the region falls within high flood-risk zones
 - 82% falls within low flood-risk areas
 - Very high hazard zones cover a very small area
@@ -180,8 +186,8 @@ Flood hazard is strongly influenced by:
 - high flow accumulation
 - built-up land surfaces
 
-Population Exposure
-The hazard exposure analysis shows:
+Population Exposure - The hazard exposure analysis shows:
+
 Flood Exposure
 - ~62,000 people live in high flood-risk areas
 - Over 528,000 residents are located in low-risk zones but remain vulnerable to severe rainfall events.
