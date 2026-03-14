@@ -46,7 +46,7 @@ The analysis evaluated land cover transitions across three intervals:
 
 2. Flood Hazard Modeling and Weighting with Analytical Hierarchy Process (AHP)
 Flood susceptibility was evaluated using a GIS-based Multi-Criteria Decision Analysis (MCDA) framework. AHP was used to assign weights to flood-driving factors based on their influence on flooding. Weighted layers were combined using weighted overlay analysis to generate the final flood hazard map.
-  Factors used:
+Factors used:
   - Slope
   - Elevation
   - Rainfall
@@ -55,7 +55,7 @@ Flood susceptibility was evaluated using a GIS-based Multi-Criteria Decision Ana
   - Soil type
   - Land use
   - Topographic Wetness Index
-  Flood Hazard categorizes:
+Flood Hazard categorizes:
   - Very High
   - High
   - Low
@@ -68,7 +68,7 @@ Soil erosion risk was estimated using the RUSLE model, integrates five parameter
   - Slope length & steepness (LS)
   - Vegetation cover (C)
   - Conservation practices (P)
-  Erosion risk levels categorizes:
+Erosion risk levels categorizes:
   - Very Low
   - Low
   - Moderate
@@ -76,7 +76,7 @@ Soil erosion risk was estimated using the RUSLE model, integrates five parameter
   - Extreme
 
 5. WorldPop population data was spatially intersected with hazard zones to estimate affected populations.
-  Process:
+Process:
     - Overlaying hazard maps with population raster data
     - Extracting population counts within hazard zones
     - Using zonal statistics to calculate the number of inhabitants exposed to each hazard level
@@ -107,7 +107,13 @@ Satellite Imagery → Image Classification → LULC Change Detection
 
 ## Key Visual Outputs
 ### Land Cover Change Maps
-  ![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)(https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
+    
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
+
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
+
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
 
 ### Flood Hazard Map
 
