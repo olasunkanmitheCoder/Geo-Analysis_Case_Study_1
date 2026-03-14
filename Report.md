@@ -106,32 +106,32 @@ Spatial Analysis Techniques
 
 ## Key Visual Outputs
 ### Land Cover Change Maps
+
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
 <p align="center">
  Land cover map for 1990.
 </p>
-![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_1990.jpg)
 
 
-
+   
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
 <p align="center">
  Land cover map for 2002
-</p>    
-![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2002.jpg)
+</p> 
 
 
 
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
 <p align="center">
  Land cover map for 2015
 </p>
-![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2015.jpg)
 
 
 
+![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
 <p align="center">
  Land cover map for 2025
 </p>
-![Land Cover Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/LULC_2025.jpg)
-
 
 
 ### Flood Hazard Map
@@ -145,16 +145,18 @@ Spatial Analysis Techniques
 
 
 ### Population Exposure Map
+
+![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Affected_Population.jpg)
 <p align="center">
  Population Exposure Map for flood affected population.
 </p>
-![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Affected_Population.jpg)
 
 
+
+![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
 <p align="center">
  Population Exposure Map for erosion affected population.
 </p>
-![Population exposure Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Erosion_Affected_Population.jpg)
 
 
 
