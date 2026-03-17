@@ -244,3 +244,14 @@ This project demonstrates how GIS and remote sensing techniques can be applied t
 By integrating land cover change analysis, flood hazard modeling, and soil erosion estimation, the study provides valuable insights into how land cover influences hydrological 
 risks and population exposure.
 The workflow can be adapted for urban risk assessment, environmental monitoring, and disaster management planning in other regions.
+
+
+## About Me
+I am Oladejo Olasunkanmi, a Data Scientist with a background in Remote Sensing and Geographic Information Systems (GIS) and over three years of experience analyzing geospatial and spatial datasets across multiple domains. I specialize in transforming complex datasets into actionable insights that support data-driven decision-making for governments and organizations.
+
+My work focuses on data analysis, spatial analytics, and data visualization to uncover patterns, trends, and opportunities hidden in data. I leverage tools such as Python, SQL, GIS technologies, and statistical analysis to build analytical solutions that improve operational efficiency and strategic planning.
+
+I am passionate about using data science and geospatial intelligence to solve real-world problems and support smarter, evidence-based decisions.
+
+I am open to Data Scientist, Geospatial Data Scientist, and Data Analyst opportunities where I can apply data-driven solutions to complex problems.
+
