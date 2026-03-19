@@ -134,7 +134,10 @@ Spatial Analysis Techniques
 </p>
 
 
-![Bar chart showing LULC rate of change from 1990 to 2025]()
+![Bar chart showing LULC rate of change from 1990 to 2025](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/bar_chart_lulc_1990_2025.png)
+<p align="center">
+Land cover rate of change from 1990 to 2025
+</p>
 
 ### Flood Hazard Map
 ![Flood Map](https://github.com/olasunkanmitheCoder/Geo-Analysis_Case_Study_1/blob/main/Flood_Vulnerability_Map.jpg)
